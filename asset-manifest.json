@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/robot-pwa/static/css/main.a0fbb60e.chunk.css",
+    "main.js": "/robot-pwa/static/js/main.2fd2722b.chunk.js",
+    "main.js.map": "/robot-pwa/static/js/main.2fd2722b.chunk.js.map",
+    "runtime~main.js": "/robot-pwa/static/js/runtime~main.f32554d2.js",
+    "runtime~main.js.map": "/robot-pwa/static/js/runtime~main.f32554d2.js.map",
+    "static/css/2.2ec98f22.chunk.css": "/robot-pwa/static/css/2.2ec98f22.chunk.css",
+    "static/js/2.9f060845.chunk.js": "/robot-pwa/static/js/2.9f060845.chunk.js",
+    "static/js/2.9f060845.chunk.js.map": "/robot-pwa/static/js/2.9f060845.chunk.js.map",
+    "index.html": "/robot-pwa/index.html",
+    "precache-manifest.42414fca1d1b9fa3c7e31aa8ff28854c.js": "/robot-pwa/precache-manifest.42414fca1d1b9fa3c7e31aa8ff28854c.js",
+    "service-worker.js": "/robot-pwa/service-worker.js",
+    "static/css/2.2ec98f22.chunk.css.map": "/robot-pwa/static/css/2.2ec98f22.chunk.css.map",
+    "static/css/main.a0fbb60e.chunk.css.map": "/robot-pwa/static/css/main.a0fbb60e.chunk.css.map",
+    "static/media/App.css": "/robot-pwa/static/media/SEGA.12a3db8b.woff"
+  }
+}
